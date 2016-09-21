@@ -1,0 +1,13 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt;Solid Oxide Fuel Cell Converts:&lt;&lt;&#10;( ) Mechanical to Chemical Energy&#10;( ) Mechanical to Heat Energy&#10;(x) Chemical to Electrical Energy&#10;( ) Chemical to Heat Energy">
+<p>Solid Oxide Fuel Cell Converts:</p>
+<multiplechoiceresponse>
+  <choicegroup label="Solid Oxide Fuel Cell Converts:" type="MultipleChoice">
+    <choice correct="false">Mechanical to Chemical Energy</choice>
+    <choice correct="false">Mechanical to Heat Energy</choice>
+    <choice correct="true">Chemical to Electrical Energy</choice>
+    <choice correct="false">Chemical to Heat Energy</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

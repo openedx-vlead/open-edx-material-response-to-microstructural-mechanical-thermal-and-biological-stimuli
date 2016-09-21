@@ -1,0 +1,13 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt;What is Creep?&lt;&lt;&#10;( ) Time independent elastic deformation at constant temperature&#10;( ) Time independent plastic deformation at constant temperature&#10;( ) Time dependent elastic deformation at constant stress&#10;(X) Time dependent permanent deformation at a constant stress">
+<p>What is Creep?</p>
+<multiplechoiceresponse>
+  <choicegroup label="What is Creep?" type="MultipleChoice">
+    <choice correct="false">Time independent elastic deformation at constant temperature</choice>
+    <choice correct="false">Time independent plastic deformation at constant temperature</choice>
+    <choice correct="false">Time dependent elastic deformation at constant stress</choice>
+    <choice correct="true">Time dependent permanent deformation at a constant stress</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

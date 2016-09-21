@@ -1,0 +1,13 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt;In the Bode plot, a pure resistor (or resistance R) will appear as a:&lt;&lt;&#10;( ) Point at Resistance R&#10;(x) Line of slope zero&#10;( ) Curve of radius R&#10;( ) Surface with center at R">
+<p>In the Bode plot, a pure resistor (or resistance R) will appear as a:</p>
+<multiplechoiceresponse>
+  <choicegroup label="In the Bode plot, a pure resistor (or resistance R) will appear as a:" type="MultipleChoice">
+    <choice correct="false">Point at Resistance R</choice>
+    <choice correct="true">Line of slope zero</choice>
+    <choice correct="false">Curve of radius R</choice>
+    <choice correct="false">Surface with center at R</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

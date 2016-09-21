@@ -1,0 +1,13 @@
+<problem display_name="Multiple Choice" markdown="Which of the following can affect the contact angle:&#10;( ) Chemistry of the material&#10;( ) Roughness of the material&#10;(x) Density of the Material&#10;( ) Surface Energy of the material">
+<p>Which of the following can affect the contact angle:</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Chemistry of the material</choice>
+    <choice correct="false">Roughness of the material</choice>
+    <choice correct="true">Density of the Material</choice>
+    <choice correct="false">Surface Energy of the material</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

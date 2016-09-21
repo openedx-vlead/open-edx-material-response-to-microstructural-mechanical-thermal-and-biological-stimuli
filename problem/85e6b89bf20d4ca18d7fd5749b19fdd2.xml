@@ -1,0 +1,13 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt;How can the cells per unit area be quantified from fluorescence microscopy images:&lt;&lt;&#10;( ) Cannot be quantified&#10;( ) By counting cells in a high magnification (a few cells) image in a given area&#10;( ) By counting cells in a low magnification (hundreds of cells) image in a given area&#10;(x) By counting areal density of cells using many images">
+<p>How can the cells per unit area be quantified from fluorescence microscopy images:</p>
+<multiplechoiceresponse>
+  <choicegroup label="How can the cells per unit area be quantified from fluorescence microscopy images:" type="MultipleChoice">
+    <choice correct="false">Cannot be quantified</choice>
+    <choice correct="false">By counting cells in a high magnification (a few cells) image in a given area</choice>
+    <choice correct="false">By counting cells in a low magnification (hundreds of cells) image in a given area</choice>
+    <choice correct="true">By counting areal density of cells using many images</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

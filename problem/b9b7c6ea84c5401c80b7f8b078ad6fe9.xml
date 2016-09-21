@@ -1,0 +1,12 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt;As the temperature increases, the creep rate:&lt;&lt;&#10;(x) Increases&#10;( ) Does not change&#10;( ) Decreases">
+<p>As the temperature increases, the creep rate:</p>
+<multiplechoiceresponse>
+  <choicegroup label="As the temperature increases, the creep rate:" type="MultipleChoice">
+    <choice correct="true">Increases</choice>
+    <choice correct="false">Does not change</choice>
+    <choice correct="false">Decreases</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

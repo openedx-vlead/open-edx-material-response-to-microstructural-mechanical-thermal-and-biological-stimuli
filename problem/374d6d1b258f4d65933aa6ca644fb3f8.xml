@@ -1,0 +1,13 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt;Excitation and Emission spectra are nearly:&lt;&lt;&#10;( ) Similar in shape with respect to each other&#10;(x) Are mirror image with respect to each other&#10;( ) Similar in intensity with respect to each other&#10;( ) Are inverted with respect to each other">
+<p>Excitation and Emission spectra are nearly:</p>
+<multiplechoiceresponse>
+  <choicegroup label="Excitation and Emission spectra are nearly:" type="MultipleChoice">
+    <choice correct="false">Similar in shape with respect to each other</choice>
+    <choice correct="true">Are mirror image with respect to each other</choice>
+    <choice correct="false">Similar in intensity with respect to each other</choice>
+    <choice correct="false">Are inverted with respect to each other</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

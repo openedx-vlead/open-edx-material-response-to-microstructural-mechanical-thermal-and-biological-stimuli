@@ -1,0 +1,13 @@
+<problem display_name="Multiple Choice" markdown="The sample stage should be __________ for measuring the contact angle:&#10;( ) Kept vertical&#10;( ) Kept inclined at 45&lt;sup&gt;0&lt;/sup&gt;&#10;(x) Kept horizontal&#10;( ) Kept inverted">
+<p>The sample stage should be __________ for measuring the contact angle:</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Kept vertical</choice>
+    <choice correct="false">Kept inclined at 45<sup>0</sup></choice>
+    <choice correct="true">Kept horizontal</choice>
+    <choice correct="false">Kept inverted</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

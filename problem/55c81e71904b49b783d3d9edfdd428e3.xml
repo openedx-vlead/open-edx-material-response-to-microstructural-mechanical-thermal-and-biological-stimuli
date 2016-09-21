@@ -1,0 +1,13 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt;In fluorescence, mitochondria stained through MitoTracker (CMXRos) appears:&lt;&lt;&#10;(x) Red&#10;( ) Green&#10;( ) Blue&#10;( ) Purple">
+<p>In fluorescence, mitochondria stained through MitoTracker (CMXRos) appears:</p>
+<multiplechoiceresponse>
+  <choicegroup label="In fluorescence, mitochondria stained through MitoTracker (CMXRos) appears:" type="MultipleChoice">
+    <choice correct="true">Red</choice>
+    <choice correct="false">Green</choice>
+    <choice correct="false">Blue</choice>
+    <choice correct="false">Purple</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

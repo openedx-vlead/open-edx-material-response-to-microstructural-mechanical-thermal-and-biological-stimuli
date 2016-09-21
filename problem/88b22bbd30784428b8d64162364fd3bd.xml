@@ -1,0 +1,13 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt;Higher hc/hmax ratio means:&lt;&lt;&#10;( ) Higher elastic recovery&#10;( ) Higher plastic recover&#10;(x) Lower elastic recovery&#10;( ) Lower plastic recovery">
+<p>Higher hc/hmax ratio means:</p>
+<multiplechoiceresponse>
+  <choicegroup label="Higher hc/hmax ratio means:" type="MultipleChoice">
+    <choice correct="false">Higher elastic recovery</choice>
+    <choice correct="false">Higher plastic recover</choice>
+    <choice correct="true">Lower elastic recovery</choice>
+    <choice correct="false">Lower plastic recovery</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

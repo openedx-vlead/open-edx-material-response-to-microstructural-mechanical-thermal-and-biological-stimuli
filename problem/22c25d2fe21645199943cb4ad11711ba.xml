@@ -1,0 +1,13 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt;In the Nyquist plot, a pure resistor (of resistance R) will appear as a:&lt;&lt;&#10;(x) Point at R on x-axis&#10;( ) Line above R from x-axis&#10;( ) Line above R from y-axis&#10;( ) Curve of Radius R">
+<p>In the Nyquist plot, a pure resistor (of resistance R) will appear as a:</p>
+<multiplechoiceresponse>
+  <choicegroup label="In the Nyquist plot, a pure resistor (of resistance R) will appear as a:" type="MultipleChoice">
+    <choice correct="true">Point at R on x-axis</choice>
+    <choice correct="false">Line above R from x-axis</choice>
+    <choice correct="false">Line above R from y-axis</choice>
+    <choice correct="false">Curve of Radius R</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

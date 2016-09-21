@@ -1,0 +1,13 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt;Nanoindentation can NOT evaluate:&lt;&lt;&#10;( ) Elastic modulus&#10;( ) Hardness&#10;( ) Fracture toughness&#10;(x) Yield strength">
+<p>Nanoindentation can NOT evaluate:</p>
+<multiplechoiceresponse>
+  <choicegroup label="Nanoindentation can NOT evaluate:" type="MultipleChoice">
+    <choice correct="false">Elastic modulus</choice>
+    <choice correct="false">Hardness</choice>
+    <choice correct="false">Fracture toughness</choice>
+    <choice correct="true">Yield strength</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

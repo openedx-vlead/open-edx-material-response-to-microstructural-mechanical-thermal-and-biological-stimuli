@@ -1,0 +1,13 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt;Comparatively between two materials, as the steady state creep rate of material-1 is lower (at constant temperature) with respect to material-2, it means:&lt;&lt;&#10;(x) Working life of material-1 will be higher compared to material-2&#10;( ) Working life of the material-1 will be same as that of material-2&#10;( ) Working life of material-2 will be higher compared to material-1&#10;( ) Density of material-2 is higher than that of material-1">
+<p>Comparatively between two materials, as the steady state creep rate of material-1 is lower (at constant temperature) with respect to material-2, it means:</p>
+<multiplechoiceresponse>
+  <choicegroup label="Comparatively between two materials, as the steady state creep rate of material-1 is lower (at constant temperature) with respect to material-2, it means:" type="MultipleChoice">
+    <choice correct="true">Working life of material-1 will be higher compared to material-2</choice>
+    <choice correct="false">Working life of the material-1 will be same as that of material-2</choice>
+    <choice correct="false">Working life of material-2 will be higher compared to material-1</choice>
+    <choice correct="false">Density of material-2 is higher than that of material-1</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

@@ -1,0 +1,13 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt;In the Nyquist plot, a pure capacitor will appear as a:&lt;&lt;&#10;( ) Point at R on x-axis&#10;( ) Point at R on y-axis&#10;( ) Line above R in x-axis&#10;(x) Line above R in y-axis">
+<p>In the Nyquist plot, a pure capacitor will appear as a:</p>
+<multiplechoiceresponse>
+  <choicegroup label="In the Nyquist plot, a pure capacitor will appear as a:" type="MultipleChoice">
+    <choice correct="false">Point at R on x-axis</choice>
+    <choice correct="false">Point at R on y-axis</choice>
+    <choice correct="false">Line above R in x-axis</choice>
+    <choice correct="true">Line above R in y-axis</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

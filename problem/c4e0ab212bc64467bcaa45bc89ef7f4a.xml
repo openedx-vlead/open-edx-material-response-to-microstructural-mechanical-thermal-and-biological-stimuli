@@ -1,0 +1,13 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt;Fluorescence microscopy will be able to tell whether a material is cytocompatible:&lt;&lt;&#10;( ) Yes, cytocompatibility can be clearly confirmed&#10;( ) Yes, cytocompatibility can be easily quantified&#10;(x) Yes, can provide an indication through in vitro tests&#10;( ) Yes, and needs no confirmation via in vivo tests">
+<p>Fluorescence microscopy will be able to tell whether a material is cytocompatible:</p>
+<multiplechoiceresponse>
+  <choicegroup label="Fluorescence microscopy will be able to tell whether a material is cytocompatible:" type="MultipleChoice">
+    <choice correct="false">Yes, cytocompatibility can be clearly confirmed</choice>
+    <choice correct="false">Yes, cytocompatibility can be easily quantified</choice>
+    <choice correct="true">Yes, can provide an indication through in vitro tests</choice>
+    <choice correct="false">Yes, and needs no confirmation via in vivo tests</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

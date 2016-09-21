@@ -1,0 +1,13 @@
+<problem display_name="Multiple Choice" markdown="The amount of water controlled while dropping it on a substrate using:&#10;( ) Beaker&#10;( ) Test-tube&#10;( ) Dropper&#10;(x) Syringe">
+<p>The amount of water controlled while dropping it on a substrate using:</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Beaker</choice>
+    <choice correct="false">Test-tube</choice>
+    <choice correct="false">Dropper</choice>
+    <choice correct="true">Syringe</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

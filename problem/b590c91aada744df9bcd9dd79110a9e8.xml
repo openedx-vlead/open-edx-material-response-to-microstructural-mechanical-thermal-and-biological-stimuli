@@ -1,0 +1,13 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt;Fluorescence microscope is type of:&lt;&lt;&#10;(x) Optical Microscope&#10;( ) Electron Microscope&#10;( ) Atomic Force Microscope&#10;( ) Scanning Tunneling Microscope&#10;">
+<p>Fluorescence microscope is type of:</p>
+<multiplechoiceresponse>
+  <choicegroup label="Fluorescence microscope is type of:" type="MultipleChoice">
+    <choice correct="true">Optical Microscope</choice>
+    <choice correct="false">Electron Microscope</choice>
+    <choice correct="false">Atomic Force Microscope</choice>
+    <choice correct="false">Scanning Tunneling Microscope</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

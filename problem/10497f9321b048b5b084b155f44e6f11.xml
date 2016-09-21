@@ -1,0 +1,13 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt;Which of the following material typically has higher elastic modulus ?&lt;&lt;&#10;( ) Polymer&#10;( ) Metal&#10;( ) Glass&#10;(x) Ceramic">
+<p>Which of the following material typically has higher elastic modulus ?</p>
+<multiplechoiceresponse>
+  <choicegroup label="Which of the following material typically has higher elastic modulus ?" type="MultipleChoice">
+    <choice correct="false">Polymer</choice>
+    <choice correct="false">Metal</choice>
+    <choice correct="false">Glass</choice>
+    <choice correct="true">Ceramic</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

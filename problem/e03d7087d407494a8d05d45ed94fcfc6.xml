@@ -1,0 +1,13 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt;TIn fluorescence, cytoskeleton stained through Phalloidin derivative (Alexa Fluor 488) appears:&lt;&lt;&#10;( ) Red&#10;(x) Green&#10;( ) Blue&#10;( ) Purple">
+<p>TIn fluorescence, cytoskeleton stained through Phalloidin derivative (Alexa Fluor 488) appears:</p>
+<multiplechoiceresponse>
+  <choicegroup label="TIn fluorescence, cytoskeleton stained through Phalloidin derivative (Alexa Fluor 488) appears:" type="MultipleChoice">
+    <choice correct="false">Red</choice>
+    <choice correct="true">Green</choice>
+    <choice correct="false">Blue</choice>
+    <choice correct="false">Purple</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

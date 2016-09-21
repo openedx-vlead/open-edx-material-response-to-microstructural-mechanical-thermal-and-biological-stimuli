@@ -1,0 +1,13 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt;Solid Oxide Fuel Cell essentially requires:&lt;&lt;&#10;( ) Porous ionic conducting electrolyte&#10;( ) Porous electronic conducting electrolyte&#10;(x) Dense ionic conducting electrolyte&#10;( ) Dense electronic conducting electrolyte">
+<p>Solid Oxide Fuel Cell essentially requires:</p>
+<multiplechoiceresponse>
+  <choicegroup label="Solid Oxide Fuel Cell essentially requires:" type="MultipleChoice">
+    <choice correct="false">Porous ionic conducting electrolyte</choice>
+    <choice correct="false">Porous electronic conducting electrolyte</choice>
+    <choice correct="true">Dense ionic conducting electrolyte</choice>
+    <choice correct="false">Dense electronic conducting electrolyte</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

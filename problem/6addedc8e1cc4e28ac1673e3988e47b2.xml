@@ -1,0 +1,13 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt;In which state a balance between recovery and strain hardening is achieved?&lt;&lt;&#10;( ) During instantaneous strain&#10;( ) Primary Creep&#10;(x) Secondary Creep&#10;( ) Tertiary Creep">
+<p>In which state a balance between recovery and strain hardening is achieved?</p>
+<multiplechoiceresponse>
+  <choicegroup label="In which state a balance between recovery and strain hardening is achieved?" type="MultipleChoice">
+    <choice correct="false">During instantaneous strain</choice>
+    <choice correct="false">Primary Creep</choice>
+    <choice correct="true">Secondary Creep</choice>
+    <choice correct="false">Tertiary Creep</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>
