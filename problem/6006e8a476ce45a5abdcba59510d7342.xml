@@ -1,103 +1,92 @@
 <problem display_name="Multiple Choice" markdown="&gt;&gt;Upon irradiation of electromagnetic radiation, fluorescence is the phenomena of emission of usually:&lt;&lt;&#10;(x) Higher wavelength light&#10;( ) Higher wavelength electron&#10;( ) Higher wavelength x-ray&#10;( ) Lower wavelength electron&#10;&#10;&#10;&gt;&gt;Fluorescence microscope is type of:&lt;&lt;&#10;(x) Optical Microscope&#10;( ) Electron Microscope&#10;( ) Atomic Force Microscope&#10;( ) Scanning Tunneling Microscope&#10;&#10;&gt;&gt;Excitation and Emission spectra are nearly:&lt;&lt;&#10;( ) Similar in shape with respect to each other&#10;(x) Are mirror image with respect to each other&#10;( ) Similar in intensity with respect to each other&#10;( ) Are inverted with respect to each other&#10;&#10;&#10;&gt;&gt;Duration of Fluorescence phenomena is:&lt;&lt;&#10;( ) 10&lt;sup&gt;3&lt;/sup&gt;-10&lt;sup&gt;0&lt;/sup&gt; s&#10;( ) 10&lt;sup&gt;0&lt;/sup&gt;-10&lt;sup&gt;-3&lt;/sup&gt; s&#10;( ) 10&lt;sup&gt;-3&lt;/sup&gt;-10&lt;sup&gt;-6&lt;/sup&gt; s&#10;(x) 10&lt;sup&gt;-6&lt;/sup&gt;-10&lt;sup&gt;-9&lt;/sup&gt; s&#10;&#10;&gt;&gt;In fluorescence, nuclei stained through Bis-benzimidazole derivative (Hoechst 33258) appears:&lt;&lt;&#10;( ) Red&#10;( ) Green&#10;(x) Blue&#10;( ) Purple&#10;&#10;&gt;&gt;TIn fluorescence, cytoskeleton stained through Phalloidin derivative (Alexa Fluor 488) appears:&lt;&lt;&#10;( ) Red&#10;(x) Green&#10;( ) Blue&#10;( ) Purple&#10;&#10;&gt;&gt;In fluorescence, mitochondria stained through MitoTracker (CMXRos) appears:&lt;&lt;&#10;(x) Red&#10;( ) Green&#10;( ) Blue&#10;( ) Purple&#10;&#10;&#10;&gt;&gt;Using fluorescence microscopy, which of the following can be observed:&lt;&lt;&#10;( ) Contact angle of cells&#10;(x) Cells and its microscopic components&#10;( ) Surface topography of cells&#10;( ) All of the Above&#10;&#10;&#10;&gt;&gt;How can the cells per unit area be quantified from fluorescence microscopy images:&lt;&lt;&#10;( ) Cannot be quantified&#10;( ) By counting cells in a high magnification (a few cells) image in a given area&#10;( ) By counting cells in a low magnification (hundreds of cells) image in a given area&#10;(x) By counting areal density of cells using many images&#10;&#10;&#10;&gt;&gt;Fluorescence microscopy will be able to tell whether a material is cytocompatible:&lt;&lt;&#10;( ) Yes, cytocompatibility can be clearly confirmed&#10;( ) Yes, cytocompatibility can be easily quantified&#10;(x) Yes, can provide an indication through in vitro tests&#10;( ) Yes, and needs no confirmation via in vivo tests&#10;&#10;&#10;">
-<p>Upon irradiation of electromagnetic radiation, fluorescence is the phenomena of emission of usually:</p>
-<multiplechoiceresponse>
-  <choicegroup label="Upon irradiation of electromagnetic radiation, fluorescence is the phenomena of emission of usually:" type="MultipleChoice">
-    <choice correct="true">Higher wavelength light</choice>
-    <choice correct="false">Higher wavelength electron</choice>
-    <choice correct="false">Higher wavelength x-ray</choice>
-    <choice correct="false">Lower wavelength electron</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>Fluorescence microscope is type of:</p>
-<multiplechoiceresponse>
-  <choicegroup label="Fluorescence microscope is type of:" type="MultipleChoice">
-    <choice correct="true">Optical Microscope</choice>
-    <choice correct="false">Electron Microscope</choice>
-    <choice correct="false">Atomic Force Microscope</choice>
-    <choice correct="false">Scanning Tunneling Microscope</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>Excitation and Emission spectra are nearly:</p>
-<multiplechoiceresponse>
-  <choicegroup label="Excitation and Emission spectra are nearly:" type="MultipleChoice">
-    <choice correct="false">Similar in shape with respect to each other</choice>
-    <choice correct="true">Are mirror image with respect to each other</choice>
-    <choice correct="false">Similar in intensity with respect to each other</choice>
-    <choice correct="false">Are inverted with respect to each other</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>Duration of Fluorescence phenomena is:</p>
-<multiplechoiceresponse>
-  <choicegroup label="Duration of Fluorescence phenomena is:" type="MultipleChoice">
-    <choice correct="false">10<sup>3</sup>-10<sup>0</sup> s</choice>
-    <choice correct="false">10<sup>0</sup>-10<sup>-3</sup> s</choice>
-    <choice correct="false">10<sup>-3</sup>-10<sup>-6</sup> s</choice>
-    <choice correct="true">10<sup>-6</sup>-10<sup>-9</sup> s</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>In fluorescence, nuclei stained through Bis-benzimidazole derivative (Hoechst 33258) appears:</p>
-<multiplechoiceresponse>
-  <choicegroup label="In fluorescence, nuclei stained through Bis-benzimidazole derivative (Hoechst 33258) appears:" type="MultipleChoice">
-    <choice correct="false">Red</choice>
-    <choice correct="false">Green</choice>
-    <choice correct="true">Blue</choice>
-    <choice correct="false">Purple</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>TIn fluorescence, cytoskeleton stained through Phalloidin derivative (Alexa Fluor 488) appears:</p>
-<multiplechoiceresponse>
-  <choicegroup label="TIn fluorescence, cytoskeleton stained through Phalloidin derivative (Alexa Fluor 488) appears:" type="MultipleChoice">
-    <choice correct="false">Red</choice>
-    <choice correct="true">Green</choice>
-    <choice correct="false">Blue</choice>
-    <choice correct="false">Purple</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>In fluorescence, mitochondria stained through MitoTracker (CMXRos) appears:</p>
-<multiplechoiceresponse>
-  <choicegroup label="In fluorescence, mitochondria stained through MitoTracker (CMXRos) appears:" type="MultipleChoice">
-    <choice correct="true">Red</choice>
-    <choice correct="false">Green</choice>
-    <choice correct="false">Blue</choice>
-    <choice correct="false">Purple</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>Using fluorescence microscopy, which of the following can be observed:</p>
-<multiplechoiceresponse>
-  <choicegroup label="Using fluorescence microscopy, which of the following can be observed:" type="MultipleChoice">
-    <choice correct="false">Contact angle of cells</choice>
-    <choice correct="true">Cells and its microscopic components</choice>
-    <choice correct="false">Surface topography of cells</choice>
-    <choice correct="false">All of the Above</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>How can the cells per unit area be quantified from fluorescence microscopy images:</p>
-<multiplechoiceresponse>
-  <choicegroup label="How can the cells per unit area be quantified from fluorescence microscopy images:" type="MultipleChoice">
-    <choice correct="false">Cannot be quantified</choice>
-    <choice correct="false">By counting cells in a high magnification (a few cells) image in a given area</choice>
-    <choice correct="false">By counting cells in a low magnification (hundreds of cells) image in a given area</choice>
-    <choice correct="true">By counting areal density of cells using many images</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>Fluorescence microscopy will be able to tell whether a material is cytocompatible:</p>
-<multiplechoiceresponse>
-  <choicegroup label="Fluorescence microscopy will be able to tell whether a material is cytocompatible:" type="MultipleChoice">
-    <choice correct="false">Yes, cytocompatibility can be clearly confirmed</choice>
-    <choice correct="false">Yes, cytocompatibility can be easily quantified</choice>
-    <choice correct="true">Yes, can provide an indication through in vitro tests</choice>
-    <choice correct="false">Yes, and needs no confirmation via in vivo tests</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>Upon irradiation of electromagnetic radiation, fluorescence is the phenomena of emission of usually:</p>
+  <multiplechoiceresponse>
+    <choicegroup label="Upon irradiation of electromagnetic radiation, fluorescence is the phenomena of emission of usually:" type="MultipleChoice">
+      <choice correct="true">Higher wavelength light</choice>
+      <choice correct="false">Higher wavelength electron</choice>
+      <choice correct="false">Higher wavelength x-ray</choice>
+      <choice correct="false">Lower wavelength electron</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Fluorescence microscope is type of:</p>
+  <multiplechoiceresponse>
+    <choicegroup label="Fluorescence microscope is type of:" type="MultipleChoice">
+      <choice correct="true">Optical Microscope</choice>
+      <choice correct="false">Electron Microscope</choice>
+      <choice correct="false">Atomic Force Microscope</choice>
+      <choice correct="false">Scanning Tunneling Microscope</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Excitation and Emission spectra are nearly:</p>
+  <multiplechoiceresponse>
+    <choicegroup label="Excitation and Emission spectra are nearly:" type="MultipleChoice">
+      <choice correct="false">Similar in shape with respect to each other</choice>
+      <choice correct="true">Are mirror image with respect to each other</choice>
+      <choice correct="false">Similar in intensity with respect to each other</choice>
+      <choice correct="false">Are inverted with respect to each other</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Duration of Fluorescence phenomena is:</p>
+  <multiplechoiceresponse>
+    <choicegroup label="Duration of Fluorescence phenomena is:" type="MultipleChoice">
+      <choice correct="false">10<sup>3</sup>-10<sup>0</sup> s</choice>
+      <choice correct="false">10<sup>0</sup>-10<sup>-3</sup> s</choice>
+      <choice correct="false">10<sup>-3</sup>-10<sup>-6</sup> s</choice>
+      <choice correct="true">10<sup>-6</sup>-10<sup>-9</sup> s</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>In fluorescence, nuclei stained through Bis-benzimidazole derivative (Hoechst 33258) appears:</p>
+  <multiplechoiceresponse>
+    <choicegroup label="In fluorescence, nuclei stained through Bis-benzimidazole derivative (Hoechst 33258) appears:" type="MultipleChoice">
+      <choice correct="false">Red</choice>
+      <choice correct="false">Green</choice>
+      <choice correct="true">Blue</choice>
+      <choice correct="false">Purple</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>TIn fluorescence, cytoskeleton stained through Phalloidin derivative (Alexa Fluor 488) appears:</p>
+  <multiplechoiceresponse>
+    <choicegroup label="TIn fluorescence, cytoskeleton stained through Phalloidin derivative (Alexa Fluor 488) appears:" type="MultipleChoice">
+      <choice correct="false">Red</choice>
+      <choice correct="true">Green</choice>
+      <choice correct="false">Blue</choice>
+      <choice correct="false">Purple</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>In fluorescence, mitochondria stained through MitoTracker (CMXRos) appears:</p>
+  <multiplechoiceresponse>
+    <choicegroup label="In fluorescence, mitochondria stained through MitoTracker (CMXRos) appears:" type="MultipleChoice">
+      <choice correct="true">Red</choice>
+      <choice correct="false">Green</choice>
+      <choice correct="false">Blue</choice>
+      <choice correct="false">Purple</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Using fluorescence microscopy, which of the following can be observed:</p>
+  <multiplechoiceresponse>
+    <choicegroup label="Using fluorescence microscopy, which of the following can be observed:" type="MultipleChoice">
+      <choice correct="false">Contact angle of cells</choice>
+      <choice correct="true">Cells and its microscopic components</choice>
+      <choice correct="false">Surface topography of cells</choice>
+      <choice correct="false">All of the Above</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>How can the cells per unit area be quantified from fluorescence microscopy images:</p>
+  <multiplechoiceresponse>
+    <choicegroup label="How can the cells per unit area be quantified from fluorescence microscopy images:" type="MultipleChoice">
+      <choice correct="false">Cannot be quantified</choice>
+      <choice correct="false">By counting cells in a high magnification (a few cells) image in a given area</choice>
+      <choice correct="false">By counting cells in a low magnification (hundreds of cells) image in a given area</choice>
+      <choice correct="true">By counting areal density of cells using many images</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Fluorescence microscopy will be able to tell whether a material is cytocompatible:</p>
+  <multiplechoiceresponse>
+    <choicegroup label="Fluorescence microscopy will be able to tell whether a material is cytocompatible:" type="MultipleChoice">
+      <choice correct="false">Yes, cytocompatibility can be clearly confirmed</choice>
+      <choice correct="false">Yes, cytocompatibility can be easily quantified</choice>
+      <choice correct="true">Yes, can provide an indication through in vitro tests</choice>
+      <choice correct="false">Yes, and needs no confirmation via in vivo tests</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>
