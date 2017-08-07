@@ -1,103 +1,92 @@
 <problem display_name="Multiple Choice" markdown="&gt;&gt;Hardness is defined as:&lt;&lt;&#10;( ) Impression created by indenter&#10;( ) Stiffness of the material&#10;( ) How strong is the material&#10;(x) Resistance to plastic deformation&#10;&#10;&#10;&gt;&gt;Hardness is proportional to:&lt;&lt;&#10;( ) Load/ diameter of contact surface&#10;(x) Load/ Area of contact surface&#10;( ) Load/ Length of contact surface&#10;( ) Load/radius of contact surface&#10;&#10;&#10;&gt;&gt;Which of the following material typically has higher elastic modulus ?&lt;&lt;&#10;( ) Polymer&#10;( ) Metal&#10;( ) Glass&#10;(x) Ceramic&#10;&#10;&gt;&gt;Nanoindentation can NOT evaluate:&lt;&lt;&#10;( ) Elastic modulus&#10;( ) Hardness&#10;( ) Fracture toughness&#10;(x) Yield strength&#10;&#10;&#10;&gt;&gt;Elastic modulus of the material during P-h curve is evaluated using the material response at:&lt;&lt;&#10;( ) Start of loading cycle&#10;( ) Start of holding cycle&#10;(x) Start of unloading cycle&#10;( ) Completion of unloading cycle&#10;&#10;&gt;&gt;The main problem in calculating elastic modulus and hardness via nanoindentation is evaluation of:&lt;&lt;&#10;( ) Indent depth&#10;(x) Contact area&#10;( ) Maximum load&#10;( ) Maximum displacement&#10;&#10;&#10;&gt;&gt;In the loading/unloading cycle, the holding time is introduced in order to:&lt;&lt;&#10;(x) Allow material to relax before unloading&#10;( ) Allow proper application of loading on material&#10;( ) Deform the material after loading&#10;( ) Evaluate hardness of the material&#10;&#10;&#10;&gt;&gt;When compared to polymer alone, the reinforcement of ~5-10 wt.% Al2O3 in polymer matrix is expected to:&lt;&lt;&#10;(x) Enhance hardness&#10;( ) Enhance modulus&#10;( ) Decrease hardness&#10;( ) Decrease modulus&#10;&#10;&#10;&gt;&gt;Higher hc/hmax ratio means:&lt;&lt;&#10;( ) Higher elastic recovery&#10;( ) Higher plastic recover&#10;(x) Lower elastic recovery&#10;( ) Lower plastic recovery&#10;&#10;&gt;&gt;When the plastic work increases&lt;&lt;&#10;( ) The recovery of material increases&#10;( ) The elastic work done increases&#10;( ) The hardness of material increases&#10;(x) The total work done increases">
-<p>Hardness is defined as:</p>
-<multiplechoiceresponse>
-  <choicegroup label="Hardness is defined as:" type="MultipleChoice">
-    <choice correct="false">Impression created by indenter</choice>
-    <choice correct="false">Stiffness of the material</choice>
-    <choice correct="false">How strong is the material</choice>
-    <choice correct="true">Resistance to plastic deformation</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>Hardness is proportional to:</p>
-<multiplechoiceresponse>
-  <choicegroup label="Hardness is proportional to:" type="MultipleChoice">
-    <choice correct="false">Load/ diameter of contact surface</choice>
-    <choice correct="true">Load/ Area of contact surface</choice>
-    <choice correct="false">Load/ Length of contact surface</choice>
-    <choice correct="false">Load/radius of contact surface</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>Which of the following material typically has higher elastic modulus ?</p>
-<multiplechoiceresponse>
-  <choicegroup label="Which of the following material typically has higher elastic modulus ?" type="MultipleChoice">
-    <choice correct="false">Polymer</choice>
-    <choice correct="false">Metal</choice>
-    <choice correct="false">Glass</choice>
-    <choice correct="true">Ceramic</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>Nanoindentation can NOT evaluate:</p>
-<multiplechoiceresponse>
-  <choicegroup label="Nanoindentation can NOT evaluate:" type="MultipleChoice">
-    <choice correct="false">Elastic modulus</choice>
-    <choice correct="false">Hardness</choice>
-    <choice correct="false">Fracture toughness</choice>
-    <choice correct="true">Yield strength</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>Elastic modulus of the material during P-h curve is evaluated using the material response at:</p>
-<multiplechoiceresponse>
-  <choicegroup label="Elastic modulus of the material during P-h curve is evaluated using the material response at:" type="MultipleChoice">
-    <choice correct="false">Start of loading cycle</choice>
-    <choice correct="false">Start of holding cycle</choice>
-    <choice correct="true">Start of unloading cycle</choice>
-    <choice correct="false">Completion of unloading cycle</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>The main problem in calculating elastic modulus and hardness via nanoindentation is evaluation of:</p>
-<multiplechoiceresponse>
-  <choicegroup label="The main problem in calculating elastic modulus and hardness via nanoindentation is evaluation of:" type="MultipleChoice">
-    <choice correct="false">Indent depth</choice>
-    <choice correct="true">Contact area</choice>
-    <choice correct="false">Maximum load</choice>
-    <choice correct="false">Maximum displacement</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>In the loading/unloading cycle, the holding time is introduced in order to:</p>
-<multiplechoiceresponse>
-  <choicegroup label="In the loading/unloading cycle, the holding time is introduced in order to:" type="MultipleChoice">
-    <choice correct="true">Allow material to relax before unloading</choice>
-    <choice correct="false">Allow proper application of loading on material</choice>
-    <choice correct="false">Deform the material after loading</choice>
-    <choice correct="false">Evaluate hardness of the material</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>When compared to polymer alone, the reinforcement of ~5-10 wt.% Al2O3 in polymer matrix is expected to:</p>
-<multiplechoiceresponse>
-  <choicegroup label="When compared to polymer alone, the reinforcement of ~5-10 wt.% Al2O3 in polymer matrix is expected to:" type="MultipleChoice">
-    <choice correct="true">Enhance hardness</choice>
-    <choice correct="false">Enhance modulus</choice>
-    <choice correct="false">Decrease hardness</choice>
-    <choice correct="false">Decrease modulus</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>Higher hc/hmax ratio means:</p>
-<multiplechoiceresponse>
-  <choicegroup label="Higher hc/hmax ratio means:" type="MultipleChoice">
-    <choice correct="false">Higher elastic recovery</choice>
-    <choice correct="false">Higher plastic recover</choice>
-    <choice correct="true">Lower elastic recovery</choice>
-    <choice correct="false">Lower plastic recovery</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>When the plastic work increases</p>
-<multiplechoiceresponse>
-  <choicegroup label="When the plastic work increases" type="MultipleChoice">
-    <choice correct="false">The recovery of material increases</choice>
-    <choice correct="false">The elastic work done increases</choice>
-    <choice correct="false">The hardness of material increases</choice>
-    <choice correct="true">The total work done increases</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>Hardness is defined as:</p>
+  <multiplechoiceresponse>
+    <choicegroup label="Hardness is defined as:" type="MultipleChoice">
+      <choice correct="false">Impression created by indenter</choice>
+      <choice correct="false">Stiffness of the material</choice>
+      <choice correct="false">How strong is the material</choice>
+      <choice correct="true">Resistance to plastic deformation</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Hardness is proportional to:</p>
+  <multiplechoiceresponse>
+    <choicegroup label="Hardness is proportional to:" type="MultipleChoice">
+      <choice correct="false">Load/ diameter of contact surface</choice>
+      <choice correct="true">Load/ Area of contact surface</choice>
+      <choice correct="false">Load/ Length of contact surface</choice>
+      <choice correct="false">Load/radius of contact surface</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Which of the following material typically has higher elastic modulus ?</p>
+  <multiplechoiceresponse>
+    <choicegroup label="Which of the following material typically has higher elastic modulus ?" type="MultipleChoice">
+      <choice correct="false">Polymer</choice>
+      <choice correct="false">Metal</choice>
+      <choice correct="false">Glass</choice>
+      <choice correct="true">Ceramic</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Nanoindentation can NOT evaluate:</p>
+  <multiplechoiceresponse>
+    <choicegroup label="Nanoindentation can NOT evaluate:" type="MultipleChoice">
+      <choice correct="false">Elastic modulus</choice>
+      <choice correct="false">Hardness</choice>
+      <choice correct="false">Fracture toughness</choice>
+      <choice correct="true">Yield strength</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Elastic modulus of the material during P-h curve is evaluated using the material response at:</p>
+  <multiplechoiceresponse>
+    <choicegroup label="Elastic modulus of the material during P-h curve is evaluated using the material response at:" type="MultipleChoice">
+      <choice correct="false">Start of loading cycle</choice>
+      <choice correct="false">Start of holding cycle</choice>
+      <choice correct="true">Start of unloading cycle</choice>
+      <choice correct="false">Completion of unloading cycle</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>The main problem in calculating elastic modulus and hardness via nanoindentation is evaluation of:</p>
+  <multiplechoiceresponse>
+    <choicegroup label="The main problem in calculating elastic modulus and hardness via nanoindentation is evaluation of:" type="MultipleChoice">
+      <choice correct="false">Indent depth</choice>
+      <choice correct="true">Contact area</choice>
+      <choice correct="false">Maximum load</choice>
+      <choice correct="false">Maximum displacement</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>In the loading/unloading cycle, the holding time is introduced in order to:</p>
+  <multiplechoiceresponse>
+    <choicegroup label="In the loading/unloading cycle, the holding time is introduced in order to:" type="MultipleChoice">
+      <choice correct="true">Allow material to relax before unloading</choice>
+      <choice correct="false">Allow proper application of loading on material</choice>
+      <choice correct="false">Deform the material after loading</choice>
+      <choice correct="false">Evaluate hardness of the material</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>When compared to polymer alone, the reinforcement of ~5-10 wt.% Al2O3 in polymer matrix is expected to:</p>
+  <multiplechoiceresponse>
+    <choicegroup label="When compared to polymer alone, the reinforcement of ~5-10 wt.% Al2O3 in polymer matrix is expected to:" type="MultipleChoice">
+      <choice correct="true">Enhance hardness</choice>
+      <choice correct="false">Enhance modulus</choice>
+      <choice correct="false">Decrease hardness</choice>
+      <choice correct="false">Decrease modulus</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Higher hc/hmax ratio means:</p>
+  <multiplechoiceresponse>
+    <choicegroup label="Higher hc/hmax ratio means:" type="MultipleChoice">
+      <choice correct="false">Higher elastic recovery</choice>
+      <choice correct="false">Higher plastic recover</choice>
+      <choice correct="true">Lower elastic recovery</choice>
+      <choice correct="false">Lower plastic recovery</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>When the plastic work increases</p>
+  <multiplechoiceresponse>
+    <choicegroup label="When the plastic work increases" type="MultipleChoice">
+      <choice correct="false">The recovery of material increases</choice>
+      <choice correct="false">The elastic work done increases</choice>
+      <choice correct="false">The hardness of material increases</choice>
+      <choice correct="true">The total work done increases</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>

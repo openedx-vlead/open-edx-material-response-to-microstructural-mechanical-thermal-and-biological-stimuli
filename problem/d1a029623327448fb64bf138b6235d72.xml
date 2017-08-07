@@ -1,103 +1,91 @@
 <problem display_name="Multiple Choice" markdown="&gt;&gt;What is Creep?&lt;&lt;&#10;( ) Time independent elastic deformation at constant temperature&#10;( ) Time independent plastic deformation at constant temperature&#10;( ) Time dependent elastic deformation at constant stress&#10;(X) Time dependent permanent deformation at a constant stress&#10;&#10;&#10;&gt;&gt;Creep usually occurs at temperatures of:&lt;&lt;&#10;( ) &amp;lt; 0.2 Tm&#10;(x) &amp;gt; 0.4 Tm&#10;( ) at Tm&#10;( ) &amp;gt; Tm&#10;(where Tm is the melting point of the material).&#10;&#10;&gt;&gt;In the primary/transient stage, the creep rate:&lt;&lt;&#10;( ) Remains zero&#10;( ) Increases with time&#10;( ) Remains constant (non zero)&#10;(x) Decreases with time&#10;&#10;&#10;&gt;&gt;In the secondary /steady state, the creep rate:&lt;&lt;&#10;( ) Remains zero&#10;( ) Increases with time&#10;(x) Remains constant (non zero)&#10;( ) Decreases with time&#10;&#10;&#10;&gt;&gt;In the tertiary state, the creep rate:&lt;&lt;&#10;( ) Remains zero&#10;(x) Rapidly increases with time&#10;( ) Remains constant (non zero)&#10;( ) Rapidly decreases with time&#10;&#10;&#10;&gt;&gt;In which state a balance between recovery and strain hardening is achieved?&lt;&lt;&#10;( ) During instantaneous strain&#10;( ) Primary Creep&#10;(x) Secondary Creep&#10;( ) Tertiary Creep&#10;&#10;&#10;&gt;&gt;Which of the following DOES NOT affect creep rate:&lt;&lt;&#10;( ) Equicohesive temperature&#10;(x) Density of material&#10;( ) Applied Load/stress&#10;( ) Exposure time&#10;&#10;&gt;&gt;As the temperature increases, the creep rate:&lt;&lt;&#10;(x) Increases&#10;( ) Does not change&#10;( ) Decreases&#10;&#10;&#10;&gt;&gt;As the obstacle distance increases, the creep rate:&lt;&lt;&#10;(x) Increases&#10;( ) Does not change&#10;( ) Decreases&#10;&#10;&#10;&gt;&gt;Comparatively between two materials, as the steady state creep rate of material-1 is lower (at constant temperature) with respect to material-2, it means:&lt;&lt;&#10;(x) Working life of material-1 will be higher compared to material-2&#10;( ) Working life of the material-1 will be same as that of material-2&#10;( ) Working life of material-2 will be higher compared to material-1&#10;( ) Density of material-2 is higher than that of material-1&#10;&#10;">
-<p>What is Creep?</p>
-<multiplechoiceresponse>
-  <choicegroup label="What is Creep?" type="MultipleChoice">
-    <choice correct="false">Time independent elastic deformation at constant temperature</choice>
-    <choice correct="false">Time independent plastic deformation at constant temperature</choice>
-    <choice correct="false">Time dependent elastic deformation at constant stress</choice>
-    <choice correct="true">Time dependent permanent deformation at a constant stress</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>Creep usually occurs at temperatures of:</p>
-<multiplechoiceresponse>
-  <choicegroup label="Creep usually occurs at temperatures of:" type="MultipleChoice">
-    <choice correct="false">&lt; 0.2 Tm</choice>
-    <choice correct="true">&gt; 0.4 Tm</choice>
-    <choice correct="false">at Tm</choice>
-    <choice correct="false">&gt; Tm</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>(where Tm is the melting point of the material).</p>
-
-<p>In the primary/transient stage, the creep rate:</p>
-<multiplechoiceresponse>
-  <choicegroup label="In the primary/transient stage, the creep rate:" type="MultipleChoice">
-    <choice correct="false">Remains zero</choice>
-    <choice correct="false">Increases with time</choice>
-    <choice correct="false">Remains constant (non zero)</choice>
-    <choice correct="true">Decreases with time</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>In the secondary /steady state, the creep rate:</p>
-<multiplechoiceresponse>
-  <choicegroup label="In the secondary /steady state, the creep rate:" type="MultipleChoice">
-    <choice correct="false">Remains zero</choice>
-    <choice correct="false">Increases with time</choice>
-    <choice correct="true">Remains constant (non zero)</choice>
-    <choice correct="false">Decreases with time</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>In the tertiary state, the creep rate:</p>
-<multiplechoiceresponse>
-  <choicegroup label="In the tertiary state, the creep rate:" type="MultipleChoice">
-    <choice correct="false">Remains zero</choice>
-    <choice correct="true">Rapidly increases with time</choice>
-    <choice correct="false">Remains constant (non zero)</choice>
-    <choice correct="false">Rapidly decreases with time</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>In which state a balance between recovery and strain hardening is achieved?</p>
-<multiplechoiceresponse>
-  <choicegroup label="In which state a balance between recovery and strain hardening is achieved?" type="MultipleChoice">
-    <choice correct="false">During instantaneous strain</choice>
-    <choice correct="false">Primary Creep</choice>
-    <choice correct="true">Secondary Creep</choice>
-    <choice correct="false">Tertiary Creep</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>Which of the following DOES NOT affect creep rate:</p>
-<multiplechoiceresponse>
-  <choicegroup label="Which of the following DOES NOT affect creep rate:" type="MultipleChoice">
-    <choice correct="false">Equicohesive temperature</choice>
-    <choice correct="true">Density of material</choice>
-    <choice correct="false">Applied Load/stress</choice>
-    <choice correct="false">Exposure time</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>As the temperature increases, the creep rate:</p>
-<multiplechoiceresponse>
-  <choicegroup label="As the temperature increases, the creep rate:" type="MultipleChoice">
-    <choice correct="true">Increases</choice>
-    <choice correct="false">Does not change</choice>
-    <choice correct="false">Decreases</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>As the obstacle distance increases, the creep rate:</p>
-<multiplechoiceresponse>
-  <choicegroup label="As the obstacle distance increases, the creep rate:" type="MultipleChoice">
-    <choice correct="true">Increases</choice>
-    <choice correct="false">Does not change</choice>
-    <choice correct="false">Decreases</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>Comparatively between two materials, as the steady state creep rate of material-1 is lower (at constant temperature) with respect to material-2, it means:</p>
-<multiplechoiceresponse>
-  <choicegroup label="Comparatively between two materials, as the steady state creep rate of material-1 is lower (at constant temperature) with respect to material-2, it means:" type="MultipleChoice">
-    <choice correct="true">Working life of material-1 will be higher compared to material-2</choice>
-    <choice correct="false">Working life of the material-1 will be same as that of material-2</choice>
-    <choice correct="false">Working life of material-2 will be higher compared to material-1</choice>
-    <choice correct="false">Density of material-2 is higher than that of material-1</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>What is Creep?</p>
+  <multiplechoiceresponse>
+    <choicegroup label="What is Creep?" type="MultipleChoice">
+      <choice correct="false">Time independent elastic deformation at constant temperature</choice>
+      <choice correct="false">Time independent plastic deformation at constant temperature</choice>
+      <choice correct="false">Time dependent elastic deformation at constant stress</choice>
+      <choice correct="true">Time dependent permanent deformation at a constant stress</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Creep usually occurs at temperatures of:</p>
+  <multiplechoiceresponse>
+    <choicegroup label="Creep usually occurs at temperatures of:" type="MultipleChoice">
+      <choice correct="false">&lt; 0.2 Tm</choice>
+      <choice correct="true">&gt; 0.4 Tm</choice>
+      <choice correct="false">at Tm</choice>
+      <choice correct="false">&gt; Tm</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>(where Tm is the melting point of the material).</p>
+  <p>In the primary/transient stage, the creep rate:</p>
+  <multiplechoiceresponse>
+    <choicegroup label="In the primary/transient stage, the creep rate:" type="MultipleChoice">
+      <choice correct="false">Remains zero</choice>
+      <choice correct="false">Increases with time</choice>
+      <choice correct="false">Remains constant (non zero)</choice>
+      <choice correct="true">Decreases with time</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>In the secondary /steady state, the creep rate:</p>
+  <multiplechoiceresponse>
+    <choicegroup label="In the secondary /steady state, the creep rate:" type="MultipleChoice">
+      <choice correct="false">Remains zero</choice>
+      <choice correct="false">Increases with time</choice>
+      <choice correct="true">Remains constant (non zero)</choice>
+      <choice correct="false">Decreases with time</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>In the tertiary state, the creep rate:</p>
+  <multiplechoiceresponse>
+    <choicegroup label="In the tertiary state, the creep rate:" type="MultipleChoice">
+      <choice correct="false">Remains zero</choice>
+      <choice correct="true">Rapidly increases with time</choice>
+      <choice correct="false">Remains constant (non zero)</choice>
+      <choice correct="false">Rapidly decreases with time</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>In which state a balance between recovery and strain hardening is achieved?</p>
+  <multiplechoiceresponse>
+    <choicegroup label="In which state a balance between recovery and strain hardening is achieved?" type="MultipleChoice">
+      <choice correct="false">During instantaneous strain</choice>
+      <choice correct="false">Primary Creep</choice>
+      <choice correct="true">Secondary Creep</choice>
+      <choice correct="false">Tertiary Creep</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Which of the following DOES NOT affect creep rate:</p>
+  <multiplechoiceresponse>
+    <choicegroup label="Which of the following DOES NOT affect creep rate:" type="MultipleChoice">
+      <choice correct="false">Equicohesive temperature</choice>
+      <choice correct="true">Density of material</choice>
+      <choice correct="false">Applied Load/stress</choice>
+      <choice correct="false">Exposure time</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>As the temperature increases, the creep rate:</p>
+  <multiplechoiceresponse>
+    <choicegroup label="As the temperature increases, the creep rate:" type="MultipleChoice">
+      <choice correct="true">Increases</choice>
+      <choice correct="false">Does not change</choice>
+      <choice correct="false">Decreases</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>As the obstacle distance increases, the creep rate:</p>
+  <multiplechoiceresponse>
+    <choicegroup label="As the obstacle distance increases, the creep rate:" type="MultipleChoice">
+      <choice correct="true">Increases</choice>
+      <choice correct="false">Does not change</choice>
+      <choice correct="false">Decreases</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Comparatively between two materials, as the steady state creep rate of material-1 is lower (at constant temperature) with respect to material-2, it means:</p>
+  <multiplechoiceresponse>
+    <choicegroup label="Comparatively between two materials, as the steady state creep rate of material-1 is lower (at constant temperature) with respect to material-2, it means:" type="MultipleChoice">
+      <choice correct="true">Working life of material-1 will be higher compared to material-2</choice>
+      <choice correct="false">Working life of the material-1 will be same as that of material-2</choice>
+      <choice correct="false">Working life of material-2 will be higher compared to material-1</choice>
+      <choice correct="false">Density of material-2 is higher than that of material-1</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>
