@@ -3,21 +3,21 @@
         "contentType": "image/jpeg", 
         "content_son": {
             "category": "asset", 
-            "course": "MECH08", 
+            "course": "mech08", 
             "name": "IIT_Kanpur-Material_Response_to_Microstructural__Mechanical__Thermal_and_Biological_Stimuli.jpg", 
-            "org": "IIT-Kanpur", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "IIT Kanpur-Material Response to Microstructural, Mechanical, Thermal and Biological Stimuli.jpg", 
-        "filename": "asset-v1:IIT-Kanpur+MECH08+Anytime+type@asset+block@IIT_Kanpur-Material_Response_to_Microstructural__Mechanical__Thermal_and_Biological_Stimuli.jpg", 
+        "filename": "asset-v1:Virtual-Labs+mech08+Anytime+type@asset+block@IIT_Kanpur-Material_Response_to_Microstructural__Mechanical__Thermal_and_Biological_Stimuli.jpg", 
         "import_path": "IIT Kanpur-Material Response to Microstructural, Mechanical, Thermal and Biological Stimuli.jpg", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
-            "IIT-Kanpur", 
-            "MECH08", 
+            "Virtual-Labs", 
+            "mech08", 
             "thumbnail", 
             "IIT_Kanpur-Material_Response_to_Microstructural__Mechanical__Thermal_and_Biological_Stimuli.jpg", 
             null
